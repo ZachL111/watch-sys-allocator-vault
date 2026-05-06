@@ -1,0 +1,17 @@
+{
+  "repo": "watch-sys-allocator-vault",
+  "thresholds": {
+    "signal": 2,
+    "slack": 2,
+    "confidence": 2,
+    "drag": 4,
+    "ship": 171,
+    "watch": 125
+  },
+  "terms": [
+    "allocation pressure",
+    "dirty state",
+    "guard slack",
+    "layout drift"
+  ]
+}
